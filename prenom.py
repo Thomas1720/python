@@ -1,6 +1,3 @@
-"""Premier programme
-Formation Python
-appredre la programmation"""
 
 nom = ""
 while nom == "":
